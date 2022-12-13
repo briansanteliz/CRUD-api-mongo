@@ -18,7 +18,7 @@
     "@babel/polyfill": "^7.10.1",
     "@babel/preset-env": "^7.10.1",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.5.8",
     "morgan": "^1.10.0"
